@@ -2,6 +2,9 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Woman%20In%20STEM&fontSize=50&fontAlignY=35&desc=Pour%20Everything%20into%20Every%20Rest&descAlignY=55)
 
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/euanssi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/eurikaangela-bialen)
+
 ## 🧪 About Me
 
 4th Year IT Student with hands-on experience in Quality Assurance. I'm passionate about software quality and continually developing my skills to create better, more reliable applications.
@@ -45,15 +48,9 @@
 - 🚀 Building my first public project
 - ✨ Combining QA mindset with development skills
 
-## 📫 Let's Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-
 ---
-
 <div align="center">
 
-*Do good things always*
+*'Do good things always'*
 
 </div>
