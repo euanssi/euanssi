@@ -7,9 +7,9 @@
 
 ## 🧪 About Me
 
-4th Year IT Student with hands-on experience in Quality Assurance. I'm passionate about software quality and continually developing my skills to create better, more reliable applications.
+IT graduate with hands-on experience in Quality Assurance. I'm passionate about software quality and continually developing my skills to create better, more reliable applications.
 
-- 🎓 Currently in my 4th year studying Information Technology
+- 🎓 Graduated with flying colors in Information Technology
 - 🔍 Experienced in QA and testing practices
 - 🌱 Currently learning **Vue.js, Nuxt.js, and MongoDB**
 - 💡 Exploring modern web development alongside QA
